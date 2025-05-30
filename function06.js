@@ -1,1 +1,3 @@
-function
+function ehPalindromo(palavra){
+    
+}
